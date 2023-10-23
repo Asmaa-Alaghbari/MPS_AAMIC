@@ -7,5 +7,5 @@
 - Piciu Andreea-Maria 341C5 - Project Manager
 - Enus Cerasela 343C5 - Tester
 
-** Methodology: Agile
-** Programming Language: Python
+## Methodology: Agile
+## Programming Language: Python
