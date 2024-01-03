@@ -29,6 +29,11 @@ def treeBuildRandom(Lines,Values,referencetable,roots,averages,lock):
     averages.append(average(Fmeasures))
     lock.release()
 
+def solve_Line(root,Values,line,referencetable,i):
+    aux = root.solve_root(Values,line)
+    aux= round(aux * 255)
+    aux = min([aux,255])
+    return float(referencetable[i+1][aux])
 
 
 if __name__=="__main__":
