@@ -1,0 +1,7 @@
+minimun 
+square_average square_average average maximun average 
+average maximun harmonic_average SahooT Li1T harmonic_average maximun average SungT TsaiT harmonic_average SungT HuangT RidlerT HuangT maximun LloydT RameshT Li1T OtsuT geometric_average Li1T TsaiT RidlerT KittlerT 
+average YenT YenT BrinkT OtsuT minimun ShanbhagT KapurT leaf leaf ShanbhagT LloydT RameshT KapurT KittlerT minimun HuangT RidlerT leaf leaf square_average OtsuT SungT KapurT RameshT BrinkT HuangT KittlerT BrinkT TsaiT RameshT YenT Li2T HuangT Li1T maximun OtsuT Li2T SungT leaf geometric_average KittlerT TsaiT KittlerT SungT 
+maximun RidlerT TsaiT LloydT HuangT square_average HuangT TsaiT HuangT Li2T KapurT TsaiT Li1T OtsuT KapurT harmonic_average minimun leaf leaf leaf maximun YenT RidlerT Li2T SahooT YenT KittlerT SahooT OtsuT RidlerT 
+Li2T KittlerT RameshT ShanbhagT leaf LloydT OtsuT KittlerT leaf leaf maximun HuangT RidlerT leaf leaf KittlerT OtsuT leaf leaf leaf LloydT SungT RidlerT SungT leaf 
+YenT Li1T KittlerT HuangT leaf 
